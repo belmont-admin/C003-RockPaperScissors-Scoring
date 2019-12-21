@@ -1,4 +1,5 @@
 input.onGesture(Gesture.Shake, function () {
+    basic.showString("" + (score))
     hand = Math.randomRange(1, 3)
     if (hand == 1) {
         basic.showLeds(`
