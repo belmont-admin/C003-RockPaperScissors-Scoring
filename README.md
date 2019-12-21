@@ -169,3 +169,7 @@ If you have a @boardname@, click on ``|Download|`` and follow the instructions t
 onto your @boardname@. Your game is ready! Gather your friends and play Rock Paper Scissors!
 
 ![A @boardname@ in a hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
+
+## Step 11 @fullscreen
+
+You might like to think about how you could improve your game but using the a button to keep track of the number of times you win and display W when you get to 10 wins.
