@@ -165,11 +165,11 @@ Click on the **SHAKE** button in the simulator and check to see that each image 
 
 ## Step 11 @fullscreen
 
-If you have a @boardname@, click on ``|Download|`` and follow the instructions to get the code
+Connect your @boardname@, pair it and then click on ``|Download|`` to get the code
 onto your @boardname@. Your game is ready! Gather your friends and play Rock Paper Scissors!
 
 ![A @boardname@ in a hand](/static/mb/projects/rock-paper-scissors/hand.jpg)
 
 ## Step 12 @fullscreen
 
-You might like to think about how you could improve your game but using the a button to keep track of the number of times you win and display W when you get to 10 wins.
+Click the ``|Finish|`` and improve your game by adding an animations on each shake before displaying the picture pf the rock, paper or scissors.
