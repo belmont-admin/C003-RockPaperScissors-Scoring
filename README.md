@@ -172,4 +172,4 @@ onto your @boardname@. Your game is ready! Gather your friends and play Rock Pap
 
 ## Step 12 @fullscreen
 
-Click the ``|Finish|`` and improve your game by adding an animation on each shake before displaying the picture of the rock, paper or scissors.
+Now improve your game by adding an animation on each shake before displaying the picture of the rock, paper or scissors.
